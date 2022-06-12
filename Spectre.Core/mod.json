@@ -1,0 +1,6 @@
+{
+  "Name": "Spectre.Core",
+  "Description": "Core components for Spectre",
+  "Version": "0.0.1-beta",
+  "LoadPriority": 0
+}
